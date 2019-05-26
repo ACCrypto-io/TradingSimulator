@@ -1,0 +1,2 @@
+coin_symbol,taker_fee,maker_fee,leverage_buy_fee,leverage_sell_fee,leverage_time_for_fees_in_hours,leverage_fees_for_time_interval
+ETH,0.009,0.009,0.009,0.009,24,0.009
